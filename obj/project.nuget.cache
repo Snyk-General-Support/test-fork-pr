@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "ERY45K4NrkM=",
+  "success": true,
+  "projectFilePath": "/Users/thaisengtha/Documents/Snyk-Folder/Cases-Folder/test-fork-pr/testpr.csproj",
+  "expectedPackageFiles": [
+    "/Users/thaisengtha/.nuget/packages/microsoft.applicationinsights/2.22.0/microsoft.applicationinsights.2.22.0.nupkg.sha512",
+    "/Users/thaisengtha/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/thaisengtha/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/thaisengtha/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/thaisengtha/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "/Users/thaisengtha/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/thaisengtha/.nuget/packages/system.numerics.vectors/4.4.0/system.numerics.vectors.4.4.0.nupkg.sha512",
+    "/Users/thaisengtha/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/thaisengtha/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/thaisengtha/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/thaisengtha/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
